@@ -14,7 +14,7 @@
     "exportapi": "slc loopback:export-api-def -o spec.yaml"
   },
   "dependencies": {
-    "async": "2.1.4",
+    "async": "2.6.4",
     "bcryptjs": "2.3.0",
     "compression": "1.6.2",
     "cors": "2.8.1",
