@@ -25,7 +25,7 @@
     "loopback-boot": "2.23.0",
     "loopback-component-explorer": "2.7.0",
     "loopback-connector-cloudant": "^2.1.0",
-    "loopback-datasource-juggler": "2.53.0",
+    "loopback-datasource-juggler": "2.59.3",
     "randomstring": "1.1.5",
     "request": "2.79.0",
     "serve-favicon": "2.3.2",
